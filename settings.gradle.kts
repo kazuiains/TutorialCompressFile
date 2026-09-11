@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CompresApp"
+rootProject.name = "Compress App"
 include(":app")
  
